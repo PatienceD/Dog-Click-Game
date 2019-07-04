@@ -1,19 +1,4 @@
-
-This is a memory clicking game built with React. This application keeps track of user's score each time they correctly click on an image they haven't clicked before. The user's score will increase with each correct click, and the score will completely reset with an incorrect click. Each time an image is clicked, the images rendered to the page will shuffle themselves in a random order. Good luck!
-
-
-Try it out here: https://patienced.github.io/Dog-Click-Game/
-
-
-
-
-
-
-
-
-
-
-<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -80,4 +65,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
