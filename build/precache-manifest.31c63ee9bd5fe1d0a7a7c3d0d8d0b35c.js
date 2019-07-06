@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43d24431b6a04ef58bda32138103adf3",
+    "revision": "6f201eaec928d32586a03560d9f8448c",
     "url": "/Dog-Click-Game/index.html"
   },
   {
-    "revision": "b8d11754ba6b8bcc13b8",
+    "revision": "b4c4d13f703d846adf54",
     "url": "/Dog-Click-Game/static/css/main.dfe965fe.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dog-Click-Game/static/js/2.884c28c3.chunk.js"
   },
   {
-    "revision": "b8d11754ba6b8bcc13b8",
-    "url": "/Dog-Click-Game/static/js/main.1a93b876.chunk.js"
+    "revision": "b4c4d13f703d846adf54",
+    "url": "/Dog-Click-Game/static/js/main.e98388b6.chunk.js"
   },
   {
     "revision": "75f60d8fa6fe17f22e06",
