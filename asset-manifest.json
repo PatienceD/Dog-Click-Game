@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dog-Click-Game/static/css/main.dfe965fe.chunk.css",
+    "main.js": "/Dog-Click-Game/static/js/main.e98388b6.chunk.js",
+    "main.js.map": "/Dog-Click-Game/static/js/main.e98388b6.chunk.js.map",
+    "runtime~main.js": "/Dog-Click-Game/static/js/runtime~main.e49b662f.js",
+    "runtime~main.js.map": "/Dog-Click-Game/static/js/runtime~main.e49b662f.js.map",
+    "static/js/2.884c28c3.chunk.js": "/Dog-Click-Game/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/Dog-Click-Game/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/Dog-Click-Game/index.html",
+    "precache-manifest.31c63ee9bd5fe1d0a7a7c3d0d8d0b35c.js": "/Dog-Click-Game/precache-manifest.31c63ee9bd5fe1d0a7a7c3d0d8d0b35c.js",
+    "service-worker.js": "/Dog-Click-Game/service-worker.js",
+    "static/css/main.dfe965fe.chunk.css.map": "/Dog-Click-Game/static/css/main.dfe965fe.chunk.css.map"
+  }
+}
