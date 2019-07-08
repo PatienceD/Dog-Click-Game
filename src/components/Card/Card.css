@@ -10,14 +10,15 @@
 }
 
 .card>.img-container {
+    padding-top: 7px;
     height: 100%;
     overflow: hidden;
     text-align: center;
-    background: #6CADDC;
+    background: white;
 }
 
 .card>.img-container>img {
-    width: 60%;
+    width: 73%;
 }
 
 .card>.content {
