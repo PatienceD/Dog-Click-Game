@@ -46,6 +46,7 @@ class App extends Component {
 
   render() {
     return (
+      <div>
         <Wrapper>
           <Header score={this.state.score} highscore={this.state.highscore}>Click Game</Header>
           {this.state.cards.map(card => (
@@ -56,9 +57,10 @@ class App extends Component {
               image={card.image}
             />
           ))}
-           <Footer />
         </Wrapper>
-       
+        <Footer />
+      </div>
+
     );
   }
 }
