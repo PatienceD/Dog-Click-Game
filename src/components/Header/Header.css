@@ -1,15 +1,9 @@
-.header {
+.header, .jumbotron {
     width: 100%;
     font-size: 2rem;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: black;
     margin-bottom: 10px;
-}
-
-.title {
-    float: left;
-}
-
-.scores {
-    float: right;
+    background: #fce3ef;
+    text-align: center;
 }

@@ -3,6 +3,7 @@ import Card from "./components/Card";
 import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
 import cards from "./cards.json";
+import Footer from "./components/Footer/Footer";
 
 class App extends Component {
   state = {
@@ -44,17 +45,19 @@ class App extends Component {
 
   render() {
     return (
-      <Wrapper>
-        <Header score={this.state.score} highscore={this.state.highscore}>Click Game</Header>
-        {this.state.cards.map(card => (
-          <Card
-            clickCount={this.clickCount}
-            id={card.id}
-            key={card.id}
-            image={card.image}
-          />
-        ))}
-      </Wrapper>
+        <Wrapper>
+          <Header score={this.state.score} highscore={this.state.highscore}>Click Game</Header>
+          {this.state.cards.map(card => (
+            <Card
+              clickCount={this.clickCount}
+              id={card.id}
+              key={card.id}
+              image={card.image}
+            />
+          ))}
+           <Footer />
+        </Wrapper>
+       
     );
   }
 }
