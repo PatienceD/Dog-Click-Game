@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Dog-Click-Game/precache-manifest.bc861f5700201395b3521c34db167bdd.js"
+  "/Dog-Click-Game/precache-manifest.6617956dab95877d9f6a96aaf4cbcfb2.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dog-Click-Game/static/css/main.8390f662.chunk.css",
-    "main.js": "/Dog-Click-Game/static/js/main.2562ef77.chunk.js",
-    "main.js.map": "/Dog-Click-Game/static/js/main.2562ef77.chunk.js.map",
+    "main.css": "/Dog-Click-Game/static/css/main.8e28aaf9.chunk.css",
+    "main.js": "/Dog-Click-Game/static/js/main.d79d5b1f.chunk.js",
+    "main.js.map": "/Dog-Click-Game/static/js/main.d79d5b1f.chunk.js.map",
     "runtime~main.js": "/Dog-Click-Game/static/js/runtime~main.e49b662f.js",
     "runtime~main.js.map": "/Dog-Click-Game/static/js/runtime~main.e49b662f.js.map",
     "static/js/2.97807068.chunk.js": "/Dog-Click-Game/static/js/2.97807068.chunk.js",
     "static/js/2.97807068.chunk.js.map": "/Dog-Click-Game/static/js/2.97807068.chunk.js.map",
     "index.html": "/Dog-Click-Game/index.html",
-    "precache-manifest.bc861f5700201395b3521c34db167bdd.js": "/Dog-Click-Game/precache-manifest.bc861f5700201395b3521c34db167bdd.js",
+    "precache-manifest.6617956dab95877d9f6a96aaf4cbcfb2.js": "/Dog-Click-Game/precache-manifest.6617956dab95877d9f6a96aaf4cbcfb2.js",
     "service-worker.js": "/Dog-Click-Game/service-worker.js",
-    "static/css/main.8390f662.chunk.css.map": "/Dog-Click-Game/static/css/main.8390f662.chunk.css.map"
+    "static/css/main.8e28aaf9.chunk.css.map": "/Dog-Click-Game/static/css/main.8e28aaf9.chunk.css.map"
   }
 }
